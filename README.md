@@ -18,21 +18,22 @@ Separate rider and driver dashboards
 
 
 ## How It Works
-Rider requests a ride 
-↓ 
-REQUESTED
-↓ 
-Driver accepts
-↓ 
-ACCEPTED
-↓ 
-Driver starts ride 
-↓ 
-IN_PROGRESS 
-↓ 
-Driver completes ride 
-↓ 
-COMPLETED
+
+Rider requests a ride
+
+Ride status: REQUESTED
+
+Driver accepts the ride
+
+Ride status: ACCEPTED
+
+Driver starts the ride
+
+Ride status: IN_PROGRESS
+
+Driver completes the ride
+
+Ride status: COMPLETED
 
 
 ## Running the Project
